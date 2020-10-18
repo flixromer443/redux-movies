@@ -1,0 +1,13 @@
+.Container{
+    padding: 20px 20px 20px 20px;
+    display: inline-block; 
+    background-color: rgba(80, 103, 116, 0.774);
+    border-radius: 20px;
+    border-style: solid;
+    border-color: rgba(178, 185, 192, 0.404);
+    margin:10px 10px 10px 10px;
+    text-align: center;
+}
+.contain{
+    padding: 20px 20px 20px 20px;
+}
